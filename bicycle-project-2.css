@@ -1,0 +1,2175 @@
+body{
+  margin: 0;
+  padding: 0;
+}
+
+.header-a{
+  margin: 20px 0px 0px 0px;
+      background-color: hsl(0, 0%, 0%);
+      width: 1349px;
+}
+
+.header-a header{
+  display: flex;
+    justify-content: flex-start;
+    height: 30px;
+    font-family: cursive;
+    font-size: 15px;
+}
+
+#ecommerce-header{
+  margin: 8px 0px 0px 90px;
+      height: 20px;
+      color: hsl(0, 0%,90%);
+    }
+
+ .header-a ul{
+   list-style-type: none;
+    display: flex;
+    justify-content: space-between;
+    width: 280px;
+    height: 20px;
+    font-size: 11px;
+    margin: 7px 0px 0px 35px;
+    color: hsl(0, 0%, 90%);
+}
+
+
+.language{
+  margin: 1px 0px 0px 140px;
+    height: 20px;
+}
+
+#language{
+  font-family: cursive;
+      font-size: 11px;
+      width: 100px;
+}
+
+#heart-header{
+  width: 15px;
+      height: 15px;
+      margin: 3px 0px 0px 0px;
+}
+
+#wishlist-header{
+  margin: 4px 0px 0px 0px;
+    color: hsl(0, 0%, 90%);
+}
+
+.heart-wishlist{
+  display: flex;
+      justify-content: space-around;
+      width: 75px;
+      height: 20px;
+      margin: 4px 0px 0px 30px;
+      color: hsl(0, 0%, 50%);
+      background-color: hsl(0, 0%, 20%);
+      border-radius: 3px;
+}
+
+.social-media-header{display: flex;
+    justify-content: center;
+    margin-left: 180px;}
+
+#facebook-header{
+  width: 25px;
+      height: 25px;
+      margin: 3px 0px 0px 0px;
+}
+
+#pinterest-header{
+  width: 25px;
+      height: 25px;
+      margin: 3px 0px 0px 0px;
+}
+
+#instagram-header{
+  width: 25px;
+    height: 25px;
+    margin: 3px 0px 0px 0px;
+}
+
+#twitter-header{
+  width: 25px;
+    height: 22px;
+    margin: 3px 0px 0px 0px;
+}
+
+
+.header-b{
+  display: flex;
+      justify-content: flex-start;
+      font-family: cursive;
+      margin-top: 10px;
+      width: 1349px;
+      border-bottom: 2.5px solid hsl(0, 0%, 90%);
+      padding-bottom: 20px;
+}
+
+#shopping{
+  font-size: 15px;
+      margin: 18px 0px 0px 90px;
+}
+
+#uikit-image{
+  width: 50px;
+    height: 30px;
+}
+
+#demos{
+  height: 20px;
+      font-family: cursive;
+      margin: 19px 0px 0px 81px;
+      font-size: 12px;
+}
+
+#features{
+  height: 20px;
+      font-family: cursive;
+      margin: 19px 0px 0px 10px;
+      font-size: 12px;
+}
+
+#shop{
+  height: 20px;
+      font-family: cursive;
+      margin: 19px 0px 0px 10px;
+      font-size: 12px;
+}
+
+#pages{
+  height: 20px;
+      font-family: cursive;
+      margin: 19px 0px 0px 10px;
+      font-size: 12px;
+}
+
+#uikit{
+  height: 20px;
+      font-family: cursive;
+      margin: 19px 0px 0px 10px;
+      font-size: 12px;
+}
+
+#search-glass-image{
+  width: 15px;
+      height: 15px;
+      margin: 19px 0px 0px 320px;
+}
+
+#login{
+  height: 20px;
+      font-family: cursive;
+      margin: 19px 0px 0px 20px;
+}
+
+#cart-image{
+  width: 15px;
+      height: 15px;
+      margin: 19px 0px 0px 20px;
+}
+
+#cart{
+  height: 20px;
+      font-family: cursive;
+      margin: 19px 0px 0px 20px;
+}
+
+.main-a{
+  width: 1349px;
+  height: 430px;
+}
+
+.downhill-bicycles-main-a{
+  background: linear-gradient( hsla(48, 100%, 50%, 0.2), hsla(0, 0%, 80%, 0.4)), url(images/downhill-bicycles.jpg);
+      width: 840px;
+      height: 400px;
+      float: left;
+      margin: 30px 0px 0px 90px;
+      border-radius: 5px;
+}
+
+#downhill-bicycles{
+  width: 300px;
+      float: left;
+      margin: 105px 0px 0px 15px;
+}
+
+#downhill-bicycles-h3{
+  width: 300px;
+      margin: 202px 0px 0px 25px;
+      color: hsl(0, 0%, 100%);
+      font-family: cursive;
+      font-size: 24px;
+}
+
+#save-40{
+  width: 250px;
+      color: hsl(0, 0%, 100%);
+      font-family: cursive;
+      font-size: 14px;
+      margin: 9px 0px 0px 25px;
+}
+
+#read-more{
+  width: 110px;
+    height: 15px;
+    float: right;
+    margin: 325px 50px 0px 0px;
+    text-transform: uppercase;
+    font-family: cursive;
+    letter-spacing: 0.5px;
+    padding: 10px 20px 10px 20px;
+    background-color: yellow;
+    border-bottom-left-radius: 90px;
+    border-bottom-right-radius: 90px;
+    border-top-left-radius: 90px;
+    border-top-right-radius: 90px;
+    transition: width 2s;
+}
+
+#read-more:hover{
+  width: 300px;
+}
+
+#read-more-arrow{
+  width: 11px;
+      float: right;
+      margin: 2px 0px 0px 0px;
+}
+
+#read-more-h6{
+margin: 0px 38px 0px 0px;
+
+}
+
+
+.free-guarantee-main-a{
+  background: linear-gradient( to bottom, hsla(48, 100%, 50%, 0.2), hsla(0, 0%, 0%, 0.6)), url(images/free-guarantee.jpg);
+      float: right;
+      margin: 30px 100px 0px 0px;
+      width: 250px;
+      height: 190px;
+      border-radius: 5px;
+}
+
+#free{
+  font-family: cursive;
+      color: yellow;
+      font-size: 18px;
+      margin: 65px 0px 0px 15px;
+}
+
+#guarantee{
+  font-family: cursive;
+      color: white;
+      font-size: 18px;
+      margin: 10px 0px 0px 15px;
+}
+
+#stylish-a{
+  font-family: cursive;
+      color: white;
+      margin: 15px 0px 0px 15px;
+}
+
+.signup-for-newsletter{
+  width: 250px;
+    height: 190px;
+    display: inline-block;
+    background-color: hsl(0, 0%, 21%);
+    float: right;
+    margin: 20px 100px 0px 0px;
+    border-radius: 5px;
+}
+
+#sign-up{
+  width: 80px;
+    height: 30px;
+    font-family: cursive;
+    color: hsl(0, 0%, 100%);
+    font-size: 17px;
+    margin: 15px 0px 0px 15px;
+    float: left;
+}
+
+#for{
+  width: 40px;
+    height: 30px;
+    font-family: cursive;
+    color: hsl(60, 100%, 50%);
+    font-size: 17px;
+    margin: 15px 0px 0px 0px;
+    float: left;
+}
+
+#newsletter{
+  width: 120px;
+    font-family: cursive;
+    color: hsl(60, 100%, 50%);
+    font-size: 17px;
+    margin: 0px 0px 0px 15px;
+    float: left;
+}
+
+#sign-up-image{
+  width: 50px;
+    height: 50px;
+    margin: 15px 35px 0px 25px;
+    float: right;
+  }
+
+#stylish-b{
+  font-family: cursive;
+    color: hsl(0, 0%, 80%);
+    font-size: 13px;
+    float: left;
+    margin: 15px 0px 0px 15px;
+}
+
+#enter-email-div{
+  display: inline-block;
+    float: left;
+    margin: 25px 0px 0px 15px;
+    padding: 6px 0px 11px 15px;
+    background-color: hsl(0, 0%, 3%);
+    width: 190px;
+    height: 20px;
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+}
+
+#enter-email{
+  float: left;
+    width: 138px;
+    border: none;
+    margin-top: 2px;
+    background-color: hsl(0, 0%, 2%);
+    color: hsl(0, 0%, 100%);
+    font-family: cursive;
+}
+
+.signup-for-newsletter{
+
+}
+
+::-webkit-input-placeholder{
+  color: hsl(0, 0%, 100%);
+  text-transform: capitalize;
+  font-family: cursive;
+}
+
+#email-arrow{
+  width: 26px;
+      margin: 0px 0px 0px 21px;
+}
+
+.main-b{
+  display: flex;
+    justify-content: flex-start;
+    width: 1349px;
+    height: 100px;
+}
+
+#free-shipping-div{
+  display: inline-block;
+      width: 225px;
+      height: 80px;
+      margin: 20px 0px 0px 90px;
+      letter-spacing: 0.2px;
+}
+
+#free-shipping-image{
+  width: 40px;
+      height: 40px;
+      float: left;
+      margin-top: 7px;
+}
+
+#free-shipping-h5{
+  float: right;
+      font-family: cursive;
+      margin: 0px 0px 0px 0px;
+}
+
+#free-shipping-h6{
+  float: right;
+      font-family: cursive;
+      margin: 15px 6px 0px 0px;
+      color: hsl(0, 0%, 80%);
+}
+
+#amazing-customer-div{
+  display: inline-block;
+    width: 225px;
+    height: 80px;
+    margin: 20px 0px 0px 30px;
+    letter-spacing: 0.2px;
+}
+
+#amazing-customer-image{
+  width: 40px;
+    height: 40px;
+    float: left;
+    margin-top: 10px;
+}
+
+#amazing-customer-h5{
+  float: right;
+      font-family: cursive;
+      margin: 0px 8px 0px 0px;
+}
+
+#amazing-customer-h6{
+  float: right;
+    font-family: cursive;
+    margin: 15px 0px 0px 0px;
+    color: hsl(0, 0%, 80%);
+}
+
+#international-shipping-div{
+  display: inline-block;
+    width: 225px;
+    height: 80px;
+    margin: 20px 0px 0px 85px;
+    letter-spacing: 0.2px;
+}
+
+#international-shipping-image{
+  width: 40px;
+    height: 40px;
+    float: left;
+    margin-top: 10px;
+}
+
+#international-shipping-h5{
+  float: right;
+    font-family: cursive;
+    margin: 0px 30px 0px 0px;
+}
+
+#international-shipping-h6{
+  float: right;
+    font-family: cursive;
+    margin: 15px 1px 0px 0px;
+    color: hsl(0, 0%, 80%);
+}
+
+#cashback-div{
+  display: inline-block;
+    width: 250px;
+    height: 80px;
+    margin: 20px 0px 0px 120px;
+    letter-spacing: 0.2px;
+}
+
+#cashback-image{
+  width: 40px;
+    height: 40px;
+    float: left;
+    margin-top: 7px;
+}
+
+#cashback-h5{
+  float: right;
+    font-family: cursive;
+    margin: 0px 37px 0px 0px;
+}
+
+#cashback-h6{
+  float: right;
+    font-family: cursive;
+    margin: 15px 0px 0px 0px;
+    color: hsl(0, 0%, 80%);
+}
+
+.main-c{
+  display: flex;
+      flex-wrap: wrap;
+      justify-content: flex-start;
+      width: 1349px;
+      height: 525px;
+}
+
+#city-bicycle-main-c{
+  width: 575px;
+      height: 230px;
+      display: flex;
+      align-items: flex-end;
+      padding: 0px 0px 20px 20px;
+      margin: 10px 0px 0px 85px;
+      background: linear-gradient( to bottom, hsla(0, 0%, 100%, -0.8), hsla(0, 0%, 30%, -0.2)), url(images/city-bicycle.jpg);
+      color: hsl(0, 0%, 100%);
+      font-family: cursive;
+      font-size: 17px;
+      border-radius: 3px;
+}
+
+#mountain-bike-main-c{
+  width: 230px;
+    height: 230px;
+    display: flex;
+    align-items: flex-end;
+    padding: 0px 0px 20px 20px;
+    background: linear-gradient( to bottom, hsla(0, 0%, 100%, -0.8), hsla(0, 0%, 30%, 0.6)), url(images/mountain-bike.jpg);
+    color: hsl(0, 0%, 100%);
+    font-family: cursive;
+    font-size: 17px;
+    border-radius: 3px;
+    margin: 10px 0px 0px 35px;
+}
+
+#downhill-bike-main-c{
+  width: 230px;
+    height: 230px;
+    display: flex;
+    align-items: flex-end;
+    padding: 0px 0px 20px 20px;
+    margin: 10px 0px 0px 35px;
+    background: linear-gradient( to bottom, hsla(0, 0%, 100%, -0.8), hsla(0, 0%, 30%, 0.6)), url(images/downhill-bike.jpg);
+    color: hsl(0, 0%, 100%);
+    font-family: cursive;
+    font-size: 17px;
+    border-radius: 3px;
+}
+
+#children-bike-main-c{
+  width: 230px;
+    height: 230px;
+    display: flex;
+    align-items: flex-end;
+    padding: 0px 0px 20px 20px;
+    margin: 25px 0px 0px 85px;
+    background: linear-gradient( to bottom, hsla(0, 0%, 100%, -0.8), hsla(0, 0%, 30%, -0.2)), url(images/children-bike.jpg);
+    color: hsl(0, 0%, 100%);
+    font-family: cursive;
+    font-size: 17px;
+    border-radius: 3px;
+}
+
+#highway-bike-main-c{
+  width: 576px;
+    height: 230px;
+    display: flex;
+    align-items: flex-end;
+    padding: 0px 0px 20px 20px;
+    margin: 25px 0px 0px 35px;
+    background: linear-gradient( to bottom, hsla(0, 0%, 100%, -0.8), hsla(0, 0%, 30%, 0.6)), url(images/highway-bike.jpg);
+    color: hsl(0, 0%, 100%);
+    font-family: cursive;
+    font-size: 17px;
+    border-radius: 3px;
+}
+
+#parts-main-c{
+  width: 230px;
+    height: 230px;
+    display: flex;
+    align-items: flex-end;
+    padding: 0px 0px 20px 20px;
+    margin: 25px 0px 0px 35px;
+    background: linear-gradient( to bottom, hsla(0, 0%, 100%, -0.8), hsla(0, 0%, 30%, 0.8)), url(images/parts.jpg);
+    color: hsl(0, 0%, 100%);
+    font-family: cursive;
+    font-size: 17px;
+    border-radius: 3px;
+}
+
+.main-d{
+  width: 1349px;
+    height: 700px;
+    background-color: hsl(0, 0%, 95%);
+    margin-top: 35px;
+}
+
+#main-d-header{
+  display: flex;
+    justify-content: flex-start;
+    font-family: cursive;
+    font-size: 20px;
+    margin-top: 20px;
+}
+
+#new-main-d{
+  margin-left: 80px;
+      padding: 0px 10px 5px 10px;
+      border-bottom: 3px solid hsl(0, 0%, 80%);
+}
+
+#hit-main-d{
+margin-left: 25px;
+}
+
+#stock-main-d{
+margin-left: 25px;
+}
+
+#most-popular-main-d{
+margin-left: 25px;
+}
+
+#brac-a{
+  height: 40px;
+      width: 20px;
+      font-size: 30px;
+      margin: 16px 0px 0px 790px;
+}
+
+#brac-b{
+  height: 40px;
+    width: 20px;
+    font-size: 30px;
+    margin: 16px 0px 0px 35px;
+}
+
+#bicycle-sales{
+  display: flex;
+    justify-content: space-between;
+    height: 390px;
+    width: 1170px;
+    margin-left: 80px;
+}
+
+#city-bicycle-sale-div{
+  width: 230px;
+      height: 390px;
+      background-color: hsl(0, 0%, 100%);
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: flex-start;
+      letter-spacing: 0.2px;
+      border-radius: 5px;
+}
+
+#city-bicycle-sale-a{
+  width: 200px;
+      height: 120px;
+      margin: 50px 0px 0px 7px;
+}
+
+#city-bicycle-sale-b{
+  width: 100px;
+      height: 20px;
+      margin: 10px 95px 0px 15px;
+      font-family: cursive;
+      color: hsl(0, 0%, 75%);
+}
+
+#city-bicycle-sale-c{
+  width: 155px;
+      height: 35px;
+      margin: 5px 40px 0px 15px;
+      font-family: cursive;
+      line-height: 20px;
+}
+
+#city-bicycle-sale-d{
+  width: 60px;
+      height: 15px;
+      margin: 15px 140px 0px 15px;
+}
+
+#city-bicycle-sale-e{
+  width: 70px;
+      height: 25px;
+      font-size: 20px;
+      font-family: cursive;
+      margin: 15px 15px 0px 15px;
+}
+
+#city-bicycle-sale-f{
+  width: 13px;
+      height: 9px;
+      margin: 29px 0px 0px 0px;
+}
+
+#city-bicycle-sale-g{
+  width: 105px;
+      font-family: cursive;
+      color: hsl(0, 0%, 75%);
+      margin: 26px 0px 0px 0px;
+      font-size: 10px;
+}
+
+#city-bicycle-sale-h{
+  width: 110px;
+      height: 15px;
+      display: flex;
+      justify-content: flex-start;
+      margin: 20px 15px 10px 15px;
+      padding: 12px 13px 12px 13px;
+      background-color: yellow;
+      border-bottom-left-radius: 30px;
+      border-bottom-right-radius: 30px;
+      border-top-left-radius: 30px;
+      border-top-right-radius: 30px;
+}
+
+#city-bicycle-sale-i{
+  width: 15px;
+      height: 15px;
+      margin: 0px 10px 0px 0px;
+}
+
+#city-bicycle-sale-j{
+  width: 100px;
+      height: 20px;
+      margin: 0;
+      font-family: cursive;
+}
+
+#city-bicycle-sale-k{
+  width: 40px;
+      height: 40px;
+      border-bottom-left-radius: 30px;
+      border-bottom-right-radius: 30px;
+      border-top-left-radius: 30px;
+      border-top-right-radius: 30px;
+      margin: 19px 0px 0px 0px;
+}
+
+#highway-bike-sale-div{
+  width: 230px;
+    height: 390px;
+    background-color: hsl(0, 0%, 100%);
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    letter-spacing: 0.2px;
+    border-radius: 5px;
+}
+
+#highway-bike-sale-a{
+  width: 180px;
+      height: 120px;
+      margin: 50px 0px 0px 10px;
+}
+
+#highway-bike-sale-aa{
+  font-family: cursive;
+}
+
+#highway-bike-sale-b{
+  color: hsl(12, 100%, 55%);
+      margin-left: 5px;
+}
+
+#highway-bike-sale-c{
+color: hsl(105, 100%, 60%);
+}
+
+#highway-bike-sale-d{
+  width: 100px;
+    height: 20px;
+    margin: 10px 95px 0px 15px;
+    font-family: cursive;
+    color: hsl(0, 0%, 75%);
+}
+
+#highway-bike-sale-e{
+  width: 190px;
+    height: 35px;
+    margin: 5px 20px 0px 15px;
+    font-family: cursive;
+    line-height: 20px;
+}
+
+#highway-bike-sale-f{
+  width: 60px;
+      height: 15px;
+      margin: 15px 140px 0px 15px;
+}
+
+#highway-bike-sale-g{
+  font-family: cursive;
+    color: hsl(0, 0%, 100%);
+    background-color: hsl(0, 100%,50%);
+    padding: 10px 5px 10px 1px;
+    border-radius: 5px;
+    border-top-right-radius: 30px;
+    border-bottom-right-radius: 30px;
+    margin: 15px 0px 0px 15px;
+    width: 15px;
+    height: 15px;
+    font-size: 9px;
+}
+
+#highway-bike-sale-gg{
+  margin-top: 15px;
+    margin-left: 3px;
+}
+
+#highway-bike-sale-h{
+  font-family: cursive;
+      color: hsl(0, 0%, 75%);
+      margin: 0px 0px 0px 5px;
+      width: 27px;
+      height: 12px;
+      font-size: 8px;
+}
+
+#highway-bike-sale-i{
+  width: 50px;
+    height: 20px;
+    font-family: cursive;
+    margin: 0px 0px 0px 5px;
+    display: inline-block;
+    float: right;
+    font-size: 15px;
+}
+
+#highway-bike-sale-j{
+  width: 13px;
+    height: 9px;
+    margin: 35px 0px 0px 15px;
+}
+
+#highway-bike-sale-k{
+  width: 98px;
+    height: 15px;
+    font-family: cursive;
+    color: hsl(0, 0%, 75%);
+    margin: 33px 0px 0px 2px;
+    font-size: 10px;
+}
+
+#highway-bike-sale-l{
+  width: 110px;
+    height: 15px;
+    display: flex;
+    justify-content: flex-start;
+    margin: 20px 15px 10px 15px;
+    padding: 12px 13px 12px 13px;
+    background-color: yellow;
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+  }
+
+#highway-bike-sale-m{
+  width: 15px;
+      height: 15px;
+      margin: 0px 10px 0px 0px;
+}
+
+#highway-bike-sale-n{
+  width: 100px;
+      height: 20px;
+      margin: 0;
+      font-family: cursive;
+}
+
+#highway-bike-sale-o{
+  width: 40px;
+      height: 40px;
+      border-bottom-left-radius: 30px;
+      border-bottom-right-radius: 30px;
+      border-top-left-radius: 30px;
+      border-top-right-radius: 30px;
+      margin: 19px 0px 0px 0px;
+}
+
+#mountain-bike-sale-div{
+  width: 230px;
+      height: 390px;
+      background-color: hsl(0, 0%, 100%);
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: flex-start;
+      letter-spacing: 0.2px;
+      border-radius: 5px;
+}
+
+#mountain-bike-sale-a{
+  width: 200px;
+      height: 120px;
+      margin: 50px 0px 0px 7px;
+}
+
+#mountain-bike-sale-b{
+  width: 100px;
+      height: 20px;
+      margin: 10px 95px 0px 15px;
+      font-family: cursive;
+      color: hsl(0, 0%, 75%);
+}
+
+#mountain-bike-sale-c{
+  width: 170px;
+      height: 35px;
+      margin: 5px 40px 0px 15px;
+      font-family: cursive;
+      line-height: 20px;
+}
+
+#mountain-bike-sale-d{
+  width: 60px;
+      height: 15px;
+      margin: 15px 140px 0px 15px;
+}
+
+#mountain-bike-sale-e{
+  width: 70px;
+      height: 25px;
+      font-size: 20px;
+      font-family: cursive;
+      margin: 15px 15px 0px 15px;
+}
+
+#mountain-bike-sale-f{
+  width: 13px;
+      height: 9px;
+      margin: 29px 0px 0px 0px;
+}
+
+#mountain-bike-sale-g{
+  width: 105px;
+      font-family: cursive;
+      color: hsl(0, 0%, 75%);
+      margin: 26px 0px 0px 0px;
+      font-size: 10px;
+}
+
+#mountain-bike-sale-h{
+  width: 110px;
+      height: 15px;
+      display: flex;
+      justify-content: flex-start;
+      margin: 20px 15px 10px 15px;
+      padding: 12px 13px 12px 13px;
+      background-color: yellow;
+      border-bottom-left-radius: 30px;
+      border-bottom-right-radius: 30px;
+      border-top-left-radius: 30px;
+      border-top-right-radius: 30px;
+}
+
+#mountain-bike-sale-i{
+  width: 15px;
+      height: 15px;
+      margin: 0px 10px 0px 0px;
+}
+
+#mountain-bike-sale-j{
+  width: 100px;
+      height: 20px;
+      margin: 0;
+      font-family: cursive;
+}
+
+#mountain-bike-sale-k{
+  width: 40px;
+      height: 40px;
+      border-bottom-left-radius: 30px;
+      border-bottom-right-radius: 30px;
+      border-top-left-radius: 30px;
+      border-top-right-radius: 30px;
+      margin: 19px 0px 0px 0px;
+}
+
+#downhill-bike-sale-div{
+  width: 230px;
+      height: 390px;
+      background-color: hsl(0, 0%, 100%);
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: flex-start;
+      letter-spacing: 0.2px;
+      border-radius: 5px;
+}
+
+#downhill-bike-sale-a{
+  width: 200px;
+      height: 120px;
+      margin: 50px 0px 0px 7px;
+}
+
+#downhill-bike-sale-b{
+  width: 100px;
+      height: 20px;
+      margin: 10px 95px 0px 15px;
+      font-family: cursive;
+      color: hsl(0, 0%, 75%);
+}
+
+#downhill-bike-sale-c{
+  width: 170px;
+      height: 35px;
+      margin: 5px 40px 0px 15px;
+      font-family: cursive;
+      line-height: 20px;
+}
+
+#downhill-bike-sale-d{
+  width: 60px;
+      height: 15px;
+      margin: 15px 140px 0px 15px;
+}
+
+#downhill-bike-sale-e{
+  width: 70px;
+      height: 25px;
+      font-size: 20px;
+      font-family: cursive;
+      margin: 15px 15px 0px 15px;
+}
+
+#downhill-bike-sale-f{
+  width: 13px;
+      height: 9px;
+      margin: 29px 0px 0px 0px;
+}
+
+#downhill-bike-sale-g{
+  width: 105px;
+      font-family: cursive;
+      color: hsl(0, 0%, 75%);
+      margin: 26px 0px 0px 0px;
+      font-size: 10px;
+}
+
+#downhill-bike-sale-h{
+  width: 110px;
+      height: 15px;
+      display: flex;
+      justify-content: flex-start;
+      margin: 20px 15px 10px 15px;
+      padding: 12px 13px 12px 13px;
+      background-color: yellow;
+      border-bottom-left-radius: 30px;
+      border-bottom-right-radius: 30px;
+      border-top-left-radius: 30px;
+      border-top-right-radius: 30px;
+}
+
+#downhill-bike-sale-i{
+  width: 15px;
+      height: 15px;
+      margin: 0px 10px 0px 0px;
+}
+
+#downhill-bike-sale-j{
+  width: 100px;
+      height: 20px;
+      margin: 0;
+      font-family: cursive;
+}
+
+#downhill-bike-sale-k{
+  width: 40px;
+      height: 40px;
+      border-bottom-left-radius: 30px;
+      border-bottom-right-radius: 30px;
+      border-top-left-radius: 30px;
+      border-top-right-radius: 30px;
+      margin: 19px 0px 0px 0px;
+}
+
+#main-d-footer{
+  display: flex;
+      justify-content: space-around;
+      width: 1160px;
+      margin: 100px 0px 0px 90px;
+}
+
+#company-logo-1{
+  height: 60px;
+      width: 90px;
+}
+
+#company-logo-2{
+  height: 60px;
+      width: 100px;
+}
+
+#company-logo-3{
+  height: 60px;
+      width: 100px;
+}
+
+#company-logo-4{
+  height: 60px;
+      width: 100px;
+}
+
+#company-logo-5{
+  height: 60px;
+      width: 100px;
+}
+
+#company-logo-6{
+  height: 60px;
+      width: 100px;
+}
+
+.main-e{
+  display: flex;
+  flex-wrap: wrap;
+}
+
+#main-e-header{
+  width: 1170px;
+      height: 61px;
+      display: flex;
+      justify-content: flex-start;
+      font-family: cursive;
+      border-bottom: 2px solid hsl(0, 0%, 90%);
+      margin: 30px 0px 40px 80px;
+}
+
+#news-main-e{
+  width: 40px;
+      border-bottom: 2px solid hsl(48, 100%, 60%);
+      padding-bottom: 40px;
+}
+
+#brac-c{
+  width: 50px;
+      height: 22px;
+      margin: 13px 0px 0px 1080px;
+      font-size: 25px;
+}
+
+#brac-d{
+  width: 50px;
+      height: 22px;
+      margin: 13px 0px 0px 15px;
+      font-size: 25px;
+}
+
+#latin-a{
+  background: linear-gradient( to bottom, hsla(48, 100%, 80%, 0.6), hsla(0, 0%, 0%, 0.6)), url(images/latin-a-pic.jpg);
+    width: 260px;
+    height: 150px;
+    font-family: cursive;
+    color: hsl(0, 0%, 100%);
+    display: flex;
+    flex-wrap: wrap;
+    letter-spacing: 0.3px;
+    margin-left: 80px;
+}
+
+#latin-date-a{
+width: 240px;
+margin-left: 20px;
+}
+
+#fb-comments-a{
+  width: 15px;
+      height: 15px;
+      margin: 45px 0px 0px 10px;
+}
+
+#comments-a{
+margin: 45px 0px 0px 5px;
+}
+
+#views-logo-a{
+  width: 15px;
+      height: 15px;
+      margin: 45px 0px 0px 20px;
+}
+
+#viewers-a{
+margin: 45px 0px 0px 5px;
+}
+
+#latin-b{
+  background: linear-gradient( to bottom, hsla(48, 100%, 80%, 0.6), hsla(0, 0%, 0%, 0.6)), url(images/latin-b-pic.jpg);
+      width: 260px;
+      height: 150px;
+      font-family: cursive;
+      color: hsl(0, 0%, 100%);
+      display: flex;
+      flex-wrap: wrap;
+      letter-spacing: 0.3px;
+      margin-left: 40px;
+}
+
+#latin-date-b{
+width: 240px;
+margin-left: 20px;
+}
+
+#fb-comments-b{
+  width: 15px;
+      height: 15px;
+      margin: 45px 0px 0px 10px;
+}
+
+#comments-b{
+margin: 45px 0px 0px 5px;
+}
+
+#views-logo-b{
+  width: 15px;
+      height: 15px;
+      margin: 45px 0px 0px 20px;
+}
+
+#viewers-b{
+margin: 45px 0px 0px 5px;
+}
+
+#latin-c{
+  background: linear-gradient( to bottom, hsla(48, 100%, 80%, 0.6), hsla(0, 0%, 0%, 0.6)), url(images/latin-c-pic.jpg);
+      width: 260px;
+      height: 150px;
+      font-family: cursive;
+      color: hsl(0, 0%, 100%);
+      display: flex;
+      flex-wrap: wrap;
+      letter-spacing: 0.3px;
+      margin-left: 40px;
+}
+
+#latin-date-c{
+  width: 240px;
+    margin-bottom: 15px;
+    margin-left: 20px;
+}
+
+#brac-e{
+  font-size: 30px;
+    width: 25px;
+    height: 45px;
+    margin: 0px 0px 0px 5px;
+    display: inline-table;
+    padding: 0px 10px 2px 15px;
+    background-color: hsla(0, 0%, 0%, 0.5);
+    border-radius: 90px;
+}
+#brac-f{
+  font-size: 30px;
+    width: 25px;
+    height: 45px;
+    margin: 0px 0px 0px 150px;
+    display: inline-table;
+    padding: 0px 10px 2px 15px;
+    background-color: hsla(0, 0%, 0%, 0.5);
+    border-radius: 90px;
+}
+
+#fb-comments-c{
+  width: 15px;
+      height: 15px;
+      margin: 10px 0px 5px 10px;
+}
+
+#comments-c{
+margin: 10px 0px 5px 5px;
+}
+
+#views-logo-c{
+  width: 15px;
+      height: 15px;
+      margin: 10px 0px 5px 20px;
+}
+
+#viewers-c{
+margin: 10px 0px 5px 5px;
+}
+
+
+#latin-d{
+  background: linear-gradient( to bottom, hsla(48, 100%, 80%, 0.6), hsla(0, 0%, 0%, 0.6)), url(images/latin-d-pic.jpg);
+      width: 260px;
+      height: 150px;
+      font-family: cursive;
+      color: hsl(0, 0%, 100%);
+      display: flex;
+      flex-wrap: wrap;
+      letter-spacing: 0.3px;
+      margin-left: 40px;
+}
+
+#latin-date-d{
+width: 240px;
+margin-left: 20px;
+}
+
+#fb-comments-d{
+  width: 15px;
+      height: 15px;
+      margin: 20px 0px 0px 10px;
+}
+
+#comments-d{
+margin: 20px 0px 0px 5px;
+}
+
+#views-logo-d{
+  width: 15px;
+      height: 15px;
+      margin: 20px 0px 0px 20px;
+}
+
+#viewers-d{
+margin: 20px 0px 0px 5px;
+}
+
+#play-button-latin-d{
+  width: 20px;
+    height: 20px;
+    margin-left: 120px;
+    margin-right: 120px;
+    border-radius: 90px;
+}
+
+#nigerian-govt-a{
+font-family: cursive;
+margin-left: 80px;
+}
+
+#naija-a{
+margin: 5px 0px 0px 0px;
+}
+
+#nigerian-government-a{
+color: hsl(0, 0%, 75%);
+margin: 5px 0px 0px 0px;
+letter-spacing: 0.1px;
+}
+
+#nigerian-govt-b{
+font-family: cursive;
+margin-left: 35px;
+}
+
+#naija-b{
+margin: 5px 0px 0px 0px;
+}
+
+#nigerian-government-b{
+color: hsl(0, 0%, 75%);
+margin: 5px 0px 0px 0px;
+letter-spacing: 0.1px;
+}
+
+#nigerian-govt-c{
+font-family: cursive;
+margin-left: 30px;
+}
+
+#naija-c{
+margin: 5px 0px 0px 0px;
+}
+
+#nigerian-government-c{
+color: hsl(0, 0%, 75%);
+margin: 5px 0px 0px 0px;
+letter-spacing: 0.1px;
+}
+
+#nigerian-govt-d{
+font-family: cursive;
+margin-left: 30px;
+}
+
+#naija-d{
+margin: 5px 0px 0px 0px;
+}
+
+#nigerian-government-d{
+color: hsl(0, 0%, 75%);
+margin: 5px 0px 0px 0px;
+letter-spacing: 0.1px;
+}
+
+#custom-collection-div{
+  background: linear-gradient( hsla(0, 0%, 0%, 0.4), hsla(0, 0%, 0%, 0.7)), url(images/the-custom-collection-pic.jpg);
+      width: 800px;
+      height: 250px;
+      margin: 100px 0px 0px 270px;
+      display: flex;
+      justify-content: flex-start;
+      letter-spacing: 0.5px;
+      flex-wrap: wrap;
+}
+
+#the{
+  color: yellow;
+      font-family: cursive;
+      font-size: 25px;
+      width: 55px;
+      height: 30px;
+      margin: 75px 0px 0px 234px;
+}
+
+#custom{
+  color: yellow;
+    font-family: cursive;
+    font-size: 25px;
+    width: 115px;
+    height: 30px;
+    margin: 75px 0px 0px 10px;
+}
+
+#collection{
+  color: white;
+    font-family: cursive;
+    font-size: 25px;
+    width: 175px;
+    height: 30px;
+    margin: 75px 0px 0px 10px;
+}
+
+#carefully-curated{
+  color: white;
+    font-family: cursive;
+    width: 520px;
+    height: 15px;
+    margin: -30px 0px 0px 150px;
+}
+
+#view-collection{
+  color: black;
+      font-family: cursive;
+      width: 140px;
+      height: 20px;
+      margin: -45px 0px 0px 319px;
+      background-color: yellow;
+      padding: 10px 20px 10px 20px;
+      border-radius: 30px;
+}
+
+#mr-astrit-bublaku-div{
+  background: linear-gradient( hsla(0, 0%, 98%, 0.9), hsla(0, 0%, 98%, 0.9)), url(images/astrit-bublaku.png);
+      width: 800px;
+      height: 250px;
+      margin: 50px 0px 0px 270px;
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      line-height: 75px;
+}
+
+#mr-astrit-bublaku-a{
+  width: 200px;
+    height: 20px;
+    font-family: cursive;
+    margin: 0px 253px 0px 345px;
+}
+
+#mr-astrit-bublaku-b{
+  font-family: cursive;
+      font-size: 19px;
+      height: 25px;
+    margin: 0px 50px 0px 40px;
+}
+
+#mr-astrit-bublaku-c{
+  font-family: cursive;
+      font-size: 19px;
+      height: 25px;
+    margin: 0px 127px 0px 137px;
+}
+
+#mr-astrit-bublaku-d{
+  font-family: cursive;
+      font-size: 19px;
+      height: 25px;
+    margin: 0px 265px 0px 280px;
+}
+
+#mr-astrit-bublaku-e{
+  height: 30px;
+    font-family: cursive;
+    font-size: 25px;
+    letter-spacing: 20px;
+    margin: 0px 340px 30px 347px;
+}
+
+.main-f{
+  font-family: cursive;
+    margin-top: 50px;
+    background-color: hsl(0, 0%, 96%);
+    display: flex;
+    flex-wrap: wrap;
+    width: 1349px;
+    height: 280px;
+}
+
+#header-main-f{
+  display: flex;
+    justify-content: flex-start;
+    font-size: 20px;
+    border-bottom: 2px solid hsl(0, 0%, 90%);
+    height: 45px;
+    width: 800px;
+    margin-left: 270px;
+    margin-top: 50px;
+}
+
+#store{
+  width: 60px;
+      height: 25px;
+      margin: 0;
+      border-bottom: 2px solid hsl(48, 100%, 50%);
+      padding-bottom: 20px;
+}
+
+#location{
+  width: 60px;
+      height: 25px;
+      margin: 0px 0px 0px 25px;
+}
+
+#brac-g{
+  width: 60px;
+      height: 25px;
+      margin: 0px 0px 0px 608px;
+      letter-spacing: 4px;
+}
+
+#gotham-bike-shop-a{
+  display: flex;
+      width: 250px;
+      height: 105px;
+      flex-wrap: wrap;
+      align-content: flex-start;
+      padding-left: 15px;
+      background-color: white;
+      margin: 20px 0px 0px 270px;
+}
+
+#gotham-bike-shop-b{
+  width: 250px;
+      margin: 0;
+      height: 20px;
+      font-size: 13px;
+      margin-top: 10px;
+}
+
+#gotham-bike-shop-c{
+  font-size: 11px;
+      margin: 0;
+      height: 20px;
+      margin-top: 5px;
+      color: hsl(0, 0%, 60%);
+}
+
+#gotham-bike-shop-d{
+  width: 15px;
+      height: 15px;
+      margin-top: 5px;
+}
+
+#gotham-bike-shop-e{
+  margin: 0px 155px 0px 10px;
+      width: 70px;
+      height: 15px;
+      margin-top: 5px;
+      color: hsl(0, 0%, 60%);
+}
+
+#gotham-bike-shop-f{
+  width: 15px;
+      height: 15px;
+      margin-top: 7px;
+}
+
+#gotham-bike-shop-g{
+  margin: 0px 120px 0px 10px;
+      width: 100px;
+      height: 15px;
+      margin-top: 7px;
+      color: hsl(0, 0%, 60%);
+}
+
+.main-g{
+font-family: cursive;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin-top: 50px;
+    width: 1349px;
+    height: 225px;
+}
+
+#header-main-g{
+  display: flex;
+      width: 800px;
+      height: 45px;
+      margin: 0px 0px 0px 270px;
+      font-family: cursive;
+}
+
+#latest{
+  width: 45px;
+    height: 25px;
+    border-bottom: 2px solid hsl(48, 100%, 50%);
+    padding-bottom: 10px;
+}
+
+#best{
+  width: 40px;
+      height: 25px;
+      margin-left: 145px;
+      border-bottom: 2px solid hsl(48, 100%, 50%);
+      padding-bottom: 10px;
+}
+
+#selling{
+  width: 75px;
+    height: 25px;
+    margin-left: 5px;
+}
+
+#featured{
+  width: 40px;
+    height: 25px;
+    margin-left: 155px;
+    border-bottom: 2px solid hsl(48, 100%, 50%);
+    padding-bottom: 10px;
+}
+
+#top{
+  width: 30px;
+      height: 25px;
+      margin-left: 195px;
+      border-bottom: 2px solid hsl(48, 100%, 50%);
+      padding-bottom: 10px;
+}
+
+#rated{
+  width: 55px;
+      height: 25px;
+      margin-left: 5px;
+}
+
+#main-g-div{
+  width: 241px;
+      height: 55px;
+      margin: 0px 0px 20px 45px;
+}
+
+#main-ga{
+  width: 50px;
+      padding: 10px 10px 10px 10px;
+      border: 2px solid hsl(0, 0%, 90%);
+      float: left;
+}
+
+#main-gb{
+  margin: 0px 0px 0px 10px;
+      float: left;
+}
+
+#main-gc{
+  width: 40px;
+      float: left;
+      margin: 3px 0px 0px 10px;
+}
+
+#main-gd{
+  float: right;
+      margin: 7px 0px 0px 10px;
+}
+
+#main-h{
+  font-family: cursive;
+    margin-top: 50px;
+    width: 1349px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    background-color: hsl(0, 0%, 0%);
+}
+
+#main-h-header{
+  display: flex;
+      justify-content: flex-start;
+      margin-right: 295px;
+      margin-bottom: 50px;
+      color: hsl(0, 0%, 100%);
+}
+
+#about-h{
+  width: 35px;
+      height: 20px;
+      border-bottom: 2px solid hsl(48, 100%, 50%);
+      padding-bottom: 5px;
+      margin-left: 270px;
+}
+
+#us-h{
+margin-left: 20px;
+}
+
+#latest-h{
+  width: 35px;
+      height: 20px;
+      margin-left: 130px;
+      border-bottom: 2px solid hsl(48, 100%, 50%);
+      padding-bottom: 5px;
+}
+
+#news-h{
+margin-left: 25px;
+}
+
+#tags-h{
+  width: 30px;
+      height: 20px;
+      margin-left: 130px;
+      border-bottom: 2px solid hsl(48, 100%, 50%);
+      padding-bottom: 5px;
+}
+
+#signup-h{
+  width: 35px;
+      height: 20px;
+      margin-left: 130px;
+      border-bottom: 2px solid hsl(48, 100%, 50%);
+      padding-bottom: 5px;
+}
+
+#for-h{
+margin-left: 25px;
+}
+
+#newsletter-h{
+margin-left: 8px;
+}
+
+#shopping-h-div{
+  height: 150px;
+      width: 200px;
+      display: flex;
+      flex-wrap: wrap;
+      margin-left: 100px;
+}
+
+#shopping-h{
+  font-size: 15px;
+      margin: 15px 0px 0px 0px;
+      color: hsl(0, 0%, 50%);
+}
+
+#ui-kit-h{
+  width: 40px;
+      height: 26px;
+      background-color: hsl(0, 0%, 5%);
+}
+
+#shopping-text-h{
+  font-size: 9px;
+      margin: 0;
+      width: 200px;
+      height: 40px;
+      color: hsl(0, 0%, 75%);
+}
+
+#facebook-h{
+  width: 20px;
+      height: 20px;
+}
+
+#twitter-h{
+  width: 20px;
+      height: 20px;
+      margin-left: 5px;
+}
+
+#pinterest-h{
+  width: 20px;
+      height: 20px;
+      margin-left: 5px;
+}
+
+#instagram-h{
+  width: 20px;
+    height: 20px;
+    margin-left: 5px;
+}
+
+#shopping-ha-div{
+  width: 280px;
+      height: 200px;
+}
+
+#aa{
+  width: 50px;
+    float: left;
+}
+
+#ab{
+margin: 0px 0px 0px 60px;
+color: hsl(0, 0%, 70%);
+}
+
+#ac{
+margin: 0px 0px 0px 60px;
+color: hsl(0, 0%, 100%);
+}
+
+#ad{
+  width: 15px;
+      height: 15px;
+      margin: 5px 0px 0px 10px;
+      float: left;
+}
+
+#ae{
+  margin: 5px 0px 0px 10px;
+      width: 70px;
+      float: left;
+      color: hsl(0, 0%, 70%);
+}
+
+#af{
+  width: 15px;
+      height: 15px;
+      float: left;
+      margin: 5px 0px 0px 40px;
+}
+
+#ag{
+  float: left;
+      margin: 5px 0px 0px 10px;
+      color: hsl(0, 0%, 70%);
+}
+
+#ba{
+  width: 50px;
+      float: left;
+      margin-top: 10px;
+}
+
+#bb{
+margin: 10px 0px 0px 60px;
+color: hsl(0, 0%, 70%);
+}
+
+#bc{
+margin: 10px 0px 0px 60px;
+color: hsl(0, 0%, 100%);
+}
+
+#bd{
+  width: 15px;
+      height: 15px;
+      margin: 15px 0px 0px 10px;
+      float: left;
+}
+
+#be{
+  margin: 15px 0px 0px 10px;
+      width: 70px;
+      float: left;
+      color: hsl(0, 0%, 70%);
+}
+
+#bf{
+  width: 15px;
+      height: 15px;
+      float: left;
+      margin: 15px 0px 0px 40px;
+}
+
+#bg{
+  float: left;
+      margin: 15px 0px 0px 10px;
+      color: hsl(0, 0%, 70%);
+}
+
+#ca{
+  width: 50px;
+    float: left;
+    margin-top: 10px
+}
+
+#cb{
+margin: 10px 0px 0px 60px;
+color: hsl(0, 0%, 70%);
+}
+
+#cc{
+margin: 10px 0px 0px 60px;
+color: hsl(0, 0%, 100%);
+}
+
+#cd{
+  width: 15px;
+      height: 15px;
+      margin: 15px 0px 0px 10px;
+      float: left;
+}
+
+#ce{
+  margin: 15px 0px 0px 10px;
+      width: 70px;
+      float: left;
+      color: hsl(0, 0%, 70%);
+}
+
+#cf{
+  width: 15px;
+      height: 15px;
+      float: left;
+      margin: 15px 0px 0px 40px;
+}
+
+#cg{
+  float: left;
+      margin: 15px 0px 0px 10px;
+      color: hsl(0, 0%, 70%);
+}
+
+#tags-div{
+  width: 280px;
+    height: 200px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding-top: 10px;
+}
+
+#tag-a{
+  margin: 0;
+      width: 57px;
+      height: 15px;
+      padding: 5px;
+      background-color: hsl(0, 0%, 5%);
+      color: hsl(0, 0%, 50%);
+      border-radius: 3px;
+}
+
+#tag-b{
+  margin: 0;
+      width: 46px;
+      height: 15px;
+      padding: 5px;
+      background-color: hsl(0, 0%, 5%);
+      color: hsl(0, 0%, 50%);
+      border-radius: 3px;
+}
+
+#tag-c{
+  margin: 0;
+      width: 50px;
+      height: 15px;
+      padding: 5px;
+      background-color: hsl(0, 0%, 5%);
+      color: hsl(0, 0%, 50%);
+      border-radius: 3px;
+    }
+
+#tag-d{
+  margin: 0;
+      width: 115px;
+      height: 15px;
+      padding: 5px;
+      background-color: hsl(0, 0%, 5%);
+      color: hsl(0, 0%, 50%);
+      border-radius: 3px;
+}
+
+#tag-e{
+  margin: 0;
+    width: 80px;
+    height: 15px;
+    padding: 5px;
+    background-color: hsl(0, 0%, 5%);
+    color: hsl(0, 0%, 50%);
+    border-radius: 3px;
+}
+
+#tag-f{
+  margin: 0;
+      width: 131px;
+      height: 15px;
+      padding: 5px;
+      background-color: hsl(0, 0%, 5%);
+      color: hsl(0, 0%, 50%);
+      border-radius: 3px;
+}
+
+#tag-g{
+  margin: 0px 40px 0px 0px;
+      width: 51px;
+      height: 15px;
+      padding: 5px;
+      background-color: hsl(0, 0%, 5%);
+      color: hsl(0, 0%, 50%);
+      border-radius: 3px;
+}
+
+#tag-h{
+  margin: 0;
+    width: 58px;
+    height: 15px;
+    padding: 5px;
+    background-color: hsl(0, 0%, 5%);
+    color: hsl(0, 0%, 50%);
+    border-radius: 3px;
+}
+
+#tag-i{
+  margin: 0;
+    width: 46px;
+    height: 15px;
+    padding: 5px;
+    background-color: hsl(0, 0%, 5%);
+    color: hsl(0, 0%, 50%);
+    border-radius: 3px;
+}
+
+#tag-j{
+  margin: 0;
+      width: 50px;
+      height: 15px;
+      padding: 5px;
+      background-color: hsl(0, 0%, 5%);
+      color: hsl(0, 0%, 50%);
+      border-radius: 3px;
+
+}
+
+#tag-k{
+  margin: 0;
+      width: 113px;
+      height: 15px;
+      padding: 5px;
+      background-color: hsl(0, 0%, 5%);
+      color: hsl(0, 0%, 50%);
+      border-radius: 3px;
+}
+
+#tag-l{
+  margin: 0;
+    width: 80px;
+    height: 15px;
+    padding: 5px;
+    background-color: hsl(0, 0%, 5%);
+    color: hsl(0, 0%, 50%);
+    border-radius: 3px;
+}
+
+#tag-m{
+  margin: 0;
+      width: 131px;
+      height: 15px;
+      padding: 5px;
+      background-color: hsl(0, 0%, 5%);
+      color: hsl(0, 0%, 50%);
+      border-radius: 3px;
+}
+
+#tag-n{
+  margin: 0;
+      width: 51px;
+      height: 15px;
+      padding: 5px;
+      background-color: hsl(0, 0%, 5%);
+      color: hsl(0, 0%, 50%);
+      border-radius: 3px;
+}
+
+#signup-h-sub{
+
+}
+
+#subscribe-h-sub{
+margin: 0;
+color: hsl(0, 0%, 50%);
+margin-right: 100px;
+}
+
+#enter-email-div-h{
+  display: inline-block;
+    float: left;
+    margin: 25px 0px 0px 0px;
+    padding: 6px 0px 11px 15px;
+    background-color: hsl(0, 0%, 5%);
+    width: 190px;
+    height: 20px;
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+}
+
+#enter-email-h{
+  float: left;
+    width: 138px;
+    border: none;
+    margin-top: 2px;
+    background-color: hsl(0, 0%, 5%);
+    color: hsl(0, 0%, 100%);
+    font-family: cursive;
+}
+
+#email-arrow-h{
+  width: 26px;
+      margin: 0px 0px 0px 21px;
+}
+
+::-webkit-input-placeholder{
+  color: hsl(0, 0%, 100%);
+  text-transform: capitalize;
+  font-family: cursive;
+}
+
+#the-end{
+  color: hsl(0, 0%, 0%);
+      width: 1349px;
+      height: 50px;
+      margin-top: 50px;
+      background-color: hsl(0, 0%, 30%);
+      padding: 7px;
+}
+
+#footer-a{
+  width: 230px;
+      float: left;
+      margin: 15px 0px 0px 150px;
+}
+
+#footer-b{
+  width: 70px;
+      float: left;
+      margin: 15px 0px 0px 650px;
+}
+
+#footer-c{
+font-family: 'Gloria Hallelujah', cursive;
+    font-size: 20px;
+    letter-spacing: 0.5px;
+    float: left;
+    margin: 0px 150px 0px 0px;
+    color: hsl(0, 0%, 100%);
+}
+
+#the-end-b{
+  width: 1349px;
+      height: 52px;
+      padding: 16px 0px 20px 0px;
+}
+
+#paypal-end{
+  width: 110px;
+      height: 43px;
+      margin: 0px 0px 3px 480px;
+}
+
+#mastercard-end{
+  width: 70px;
+      margin: 0px 0px 4px 0px;
+}
+
+#visa-end{
+  width: 70px;
+      height: 50px;
+      margin: 0px 0px 0px 0px;
+}
+
+#am-end{
+  width: 70px;
+    height: 55px;
+}
