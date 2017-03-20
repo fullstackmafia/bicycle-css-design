@@ -1,3 +1,3 @@
 # Bicycle App
 
-HTML + CSS Bicycle e-commerce design.
+A design for an e-commerce site using HTML and CSS
