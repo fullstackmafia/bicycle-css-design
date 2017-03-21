@@ -1,4 +1,4 @@
-#Here create your initial variable which will be added to the end of every input
+#Here create an initial variable which will be added to the end of every input
 pyg = 'ay'
 
 # Here create a variable and define it as the raw input
